@@ -13,9 +13,9 @@
 - <p> <b>Student in Mobile App Development</b> at <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75"/></p>
 
 📫 How to reach me: 
-<p>[![Linkedin: Ben Simpson](https://img.shields.io/badge/-bsimps01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bs1mpson/)](https://www.linkedin.com/in/bs1mpson/)
-<a href="https://github.com/bsimps01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-- <b>Check out all the cool stuff I've been working on in my</b><a href="https://www.makeschool.com/portfolio/ben-simpson"> portfolio</a></p>
+[![Linkedin: Ben Simpson](https://img.shields.io/badge/-bsimps01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bs1mpson/)](https://www.linkedin.com/in/bs1mpson/)
+<a href="https://github.com/bsimps01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+- <b>Check out all the cool stuff I've been working on in my</b><a href="https://www.makeschool.com/portfolio/ben-simpson"> portfolio</a>
 
 <!--
 **bsimps01/bsimps01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
