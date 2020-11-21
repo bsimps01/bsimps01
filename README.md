@@ -14,7 +14,7 @@
 
 📫 How to reach me: 
 <p>[![Linkedin: Ben Simpson](https://img.shields.io/badge/-bsimps01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bs1mpson/)](https://www.linkedin.com/in/bs1mpson/)
-<a href="https://github.com/bsimps01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
+<a href="https://github.com/bsimps01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 - <b>Check out all the cool stuff I've been working on in my</b><a href="https://www.makeschool.com/portfolio/ben-simpson"> portfolio</a></p>
 
 <!--
