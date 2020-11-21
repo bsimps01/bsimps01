@@ -8,7 +8,7 @@
 
 ### About Me
 
-- <p><b>iOS Engineer Intern</b> at <a href="https://apps.apple.com/us/app/juix/id1460541483">Bolar Score</a> <a href="https://www.bolarscore.com/"><img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/ypopms1hsjxqp40e6izg" width="20" /></a> <p>
+- <p><b>iOS Engineer Intern</b> at <a href="https://apps.apple.com/us/app/juix/id1460541483">Juix</a> <a href="https://www.bolarscore.com/"><img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/ypopms1hsjxqp40e6izg" width="20" /></a> <p>
   
 - <p> <b>Student in Mobile App Development</b> at <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75"/></p>
 
