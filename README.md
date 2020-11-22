@@ -13,7 +13,7 @@
 - <p> <b>Student in Mobile App Development</b> at <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75"/></p>
 
 📫 How to reach me: 
-[![Linkedin: Ben Simpson](https://img.shields.io/badge/-Ben Simpson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bs1mpson/)](https://www.linkedin.com/in/bs1mpson/)
+[![Linkedin: Ben Simpson](https://img.shields.io/badge/-BenSimpson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bs1mpson/)](https://www.linkedin.com/in/bs1mpson/)
 <a href="https://github.com/bsimps01" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 [![Ben Simpson](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJfmrJhRkzbLbWnpWjhlPrCCDjzVdgXscVFcPKJmMcZnNjNNqBXPPFMrfKbnPZPLGpwLxwL)
 - <b>Check out all the cool stuff I've been working on in my</b><a href="https://www.makeschool.com/portfolio/ben-simpson"> portfolio</a>
