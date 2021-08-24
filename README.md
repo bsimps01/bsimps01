@@ -8,9 +8,11 @@
 
 ### About Me
 
-- <p><b>iOS Engineer Intern</b> at <a href="https://apps.apple.com/us/app/juix/id1460541483">Juix</a> <a href="https://www.juix.com/"><img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/ypopms1hsjxqp40e6izg" width="20" /></a> <p>
+- <p><b>Former iOS Engineer Intern</b> at <a href="https://apps.apple.com/us/app/juix/id1460541483">Juix</a> <a href="https://www.juix.com/"><img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/ypopms1hsjxqp40e6izg" width="20" /></a> <p>
   
-- <p> <b>Student in Mobile App Development</b> at <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75"/></p>
+- <p><b>Intern</b> at <a href="https://apps.apple.com/us/app/juix/id1460541483">Code Day Labs</a> <a href="https://labs.codeday.org/"><img src="https://avatars.githubusercontent.com/u/63003896?s=200&v=4" width="20" /></a> <p>
+  
+- <p> <b>B.S. in Computer Science</b> at <a href="https://www.dominican.edu/"><img src="https://www.dominican.edu/sites/default/files/styles/width_960/public/2020-06/President%20Marcy%20Statement%20Image%20University%20Logo.jpg?itok=eGn3JeDs" width="75"/></p>
 
 📫  How to reach me: 
 [![Linkedin: Ben Simpson](https://img.shields.io/badge/-BenSimpson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bs1mpson/)](https://www.linkedin.com/in/bs1mpson/)
