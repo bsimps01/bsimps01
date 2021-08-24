@@ -12,7 +12,7 @@
   
 - <p><b>Intern</b> at <a href="https://labs.codeday.org/">Code Day Labs</a> <a href="https://labs.codeday.org/"><img src="https://avatars.githubusercontent.com/u/63003896?s=200&v=4" width="35" /></a> <p>
   
-- <p> <b>B.S. in Computer Science</b> at <a href="https://www.dominican.edu/"><img src="https://www.dominican.edu/sites/default/files/styles/width_960/public/2020-06/President%20Marcy%20Statement%20Image%20University%20Logo.jpg?itok=eGn3JeDs" width="35"/></p>
+- <p> <b>B.S. in Computer Science</b> at <a href="https://www.dominican.edu/"> Dominican University of California<img src="https://www.dominican.edu/sites/default/files/styles/width_960/public/2020-06/President%20Marcy%20Statement%20Image%20University%20Logo.jpg?itok=eGn3JeDs" width="35"/></p>
 
 📫  How to reach me: 
 [![Linkedin: Ben Simpson](https://img.shields.io/badge/-BenSimpson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bs1mpson/)](https://www.linkedin.com/in/bs1mpson/)
