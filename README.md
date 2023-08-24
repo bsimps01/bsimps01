@@ -8,7 +8,7 @@
 
 ### About Me
 
-- <p><b>iOS Software Engineer at <a href="https://www.execonline.com/">ExecOnline </a>
+- <p><b>iOS Software Engineer </a>
 <!-- - <p><b>Former iOS Engineer Intern</b> at <a href="https://apps.apple.com/us/app/juix/id1460541483">Juix </a> <a href="https://www.juix.com/"><img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/ypopms1hsjxqp40e6izg" width="20" /></a> <p>
   
 - <p><b>Former Intern</b> at <a href="https://labs.codeday.org/">Code Day Labs </a> <a href="https://labs.codeday.org/"><img src="https://avatars.githubusercontent.com/u/63003896?s=200&v=4" width="35" /></a> <p>
